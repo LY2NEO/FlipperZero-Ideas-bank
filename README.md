@@ -17,3 +17,5 @@ All articles  related to Hacking is only for informational and educational purpo
 We mostly  focus on Programming, Tutorials, Security Guide, Pentesting tutorials and Ethical hacking. If you planned to use the content for illegal purpose, please leave this site immediately.
 
 ----
+
+ "If you want to go fast, go alone. If you want to go far, go together." – African Proverb
